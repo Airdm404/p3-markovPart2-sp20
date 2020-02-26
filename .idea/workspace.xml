@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bcc03b72-1416-4c9a-9322-034008a9d363" name="Default Changelist" comment="p3 done">
+    <list default="true" id="bcc03b72-1416-4c9a-9322-034008a9d363" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EfficientMarkov.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EfficientMarkov.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EfficientWordMarkov.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EfficientWordMarkov.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,6 +96,14 @@
       <option name="presentableId" value="Default" />
       <updated>1570583854276</updated>
     </task>
+    <task id="LOCAL-00001" summary="p3 done">
+      <created>1582687295853</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1582687295853</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -130,10 +136,10 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="438" y="247" width="404" height="235" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.720@0.0.1280.720" timestamp="1582603581691" />
-    <state x="271" y="0" key="CommitChangelistDialog2" timestamp="1582687202692">
+    <state x="271" y="0" key="CommitChangelistDialog2" timestamp="1582687295027">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="271" y="0" key="CommitChangelistDialog2/0.0.1280.720@0.0.1280.720" timestamp="1582687202692" />
+    <state x="271" y="0" key="CommitChangelistDialog2/0.0.1280.720@0.0.1280.720" timestamp="1582687295027" />
     <state width="1237" height="176" key="GridCell.Tab.0.bottom" timestamp="1582686365828">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
