@@ -17,6 +17,11 @@ public class BaseMarkov  implements MarkovInterface<String> {
 	protected String myText;
 	protected Random myRandom;
 	protected int myOrder;
+
+	public String getMyText() {
+		return myText;
+	}
+
 	protected static String PSEUDO_EOS = "";
 	protected static long RANDOM_SEED = 1234;
 	

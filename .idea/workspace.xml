@@ -2,25 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bcc03b72-1416-4c9a-9322-034008a9d363" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/analysis/analysis.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EfficientWordMarkov.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EfficientMarkov-fall19.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EfficientMarkov-fall19/BaseMarkov.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EfficientMarkov-fall19/BaseWordMarkov.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EfficientMarkov-fall19/Benchmark.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EfficientMarkov-fall19/EfficientMarkov.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EfficientMarkov-fall19/MarkovDriver.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EfficientMarkov-fall19/MarkovInterface.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EfficientMarkov-fall19/MarkovTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EfficientMarkov-fall19/TextSource.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EfficientMarkov-fall19/WordGram.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EfficientMarkov-spring20.iml" beforeDir="false" afterPath="$PROJECT_DIR$/EfficientMarkov-spring20.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/BaseMarkov.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaseMarkov.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BaseWordMarkov.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaseWordMarkov.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MarkovDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MarkovDriver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WordGram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WordGram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EfficientMarkov.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EfficientMarkov.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MarkovTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MarkovTest.java" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,16 +19,29 @@
     <option name="testRunner" value="GRADLE" />
     <option name="delegatedBuild" value="true" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1XGfSJkvjOiiLf1i4npaDOoDBZX" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -51,19 +53,14 @@
       <recent name="C:\Users\Susan\IdeaProjects\spring20setup\p3-efficientmarkov-fall19" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.MarkovDriver">
+    <configuration name="MarkovDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MarkovDriver" />
+      <module name="EfficientMarkov-spring20" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MarkovTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="EfficientMarkov-spring20" />
       <option name="PACKAGE_NAME" value="" />
@@ -77,9 +74,22 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MarkovDriver" />
         <item itemvalue="JUnit.MarkovTest" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -94,14 +104,6 @@
     </task>
     <servers />
   </component>
-  <component name="TestHistory">
-    <history-entry file="MarkovTest_testMapMakeNgram - 2019.10.10 at 16h 50m 43s.xml">
-      <configuration name="MarkovTest.testMapMakeNgram" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MarkovTest - 2019.10.10 at 16h 52m 05s.xml">
-      <configuration name="MarkovTest" configurationId="JUnit" />
-    </history-entry>
-  </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
@@ -114,6 +116,40 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="447" y="71" key="#com.intellij.ide.util.MemberChooser" timestamp="1582600278841">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="447" y="71" key="#com.intellij.ide.util.MemberChooser/0.0.1280.720@0.0.1280.720" timestamp="1582600278841" />
+    <state x="448" y="251" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1582597375967">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="448" y="251" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1280.720@0.0.1280.720" timestamp="1582597375967" />
+    <state x="438" y="247" width="404" height="235" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1582603581691">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="438" y="247" width="404" height="235" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.720@0.0.1280.720" timestamp="1582603581691" />
+    <state width="1237" height="176" key="GridCell.Tab.0.bottom" timestamp="1582685530286">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="176" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1582685530286" />
+    <state width="1237" height="176" key="GridCell.Tab.0.center" timestamp="1582685530286">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="176" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1582685530286" />
+    <state width="1237" height="176" key="GridCell.Tab.0.left" timestamp="1582685530286">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="176" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1582685530286" />
+    <state width="1237" height="176" key="GridCell.Tab.0.right" timestamp="1582685530286">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="176" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1582685530286" />
+    <state x="365" y="255" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1582607540442">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="365" y="255" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1280.720@0.0.1280.720" timestamp="1582607540442" />
   </component>
   <component name="masterDetails">
     <states>
