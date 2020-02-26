@@ -1,5 +1,11 @@
 import java.util.*;
 
+/**
+ * Similar to EfficientMarkov, but uses WordGram objects instead of String
+ * objects to generate random text.
+ *
+ */
+
 public class EfficientWordMarkov extends BaseWordMarkov {
     private Map<WordGram,ArrayList<String>> myMap;
 

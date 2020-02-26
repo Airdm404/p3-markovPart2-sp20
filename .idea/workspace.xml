@@ -3,6 +3,13 @@
   <component name="ChangeListManager">
     <list default="true" id="bcc03b72-1416-4c9a-9322-034008a9d363" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/analysis/analysis.txt" beforeDir="false" afterPath="$PROJECT_DIR$/analysis/analysis.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EfficientMarkov-spring20/Benchmark.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EfficientMarkov-spring20/Benchmark.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EfficientMarkov-spring20/EfficientMarkov.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EfficientMarkov-spring20/EfficientMarkov.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EfficientMarkov-spring20/EfficientWordMarkov.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EfficientMarkov-spring20/EfficientWordMarkov.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Benchmark.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Benchmark.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EfficientMarkov.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EfficientMarkov.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EfficientWordMarkov.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EfficientWordMarkov.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +54,14 @@
       <recent name="C:\Users\Susan\IdeaProjects\spring20setup\p3-efficientmarkov-fall19" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MarkovDriver">
+  <component name="RunManager" selected="Application.Benchmark">
+    <configuration name="Benchmark" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Benchmark" />
+      <module name="EfficientMarkov-spring20" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MarkovDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MarkovDriver" />
       <module name="EfficientMarkov-spring20" />
@@ -68,8 +82,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MarkovDriver" />
+        <item itemvalue="Application.Benchmark" />
         <item itemvalue="JUnit.MarkovTest" />
+        <item itemvalue="Application.MarkovDriver" />
       </list>
     </recent_temporary>
   </component>
@@ -140,26 +155,30 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="271" y="0" key="CommitChangelistDialog2/0.0.1280.720@0.0.1280.720" timestamp="1582687295027" />
-    <state width="1237" height="176" key="GridCell.Tab.0.bottom" timestamp="1582686365828">
+    <state width="1237" height="176" key="GridCell.Tab.0.bottom" timestamp="1582695336308">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1237" height="176" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1582686365828" />
-    <state width="1237" height="176" key="GridCell.Tab.0.center" timestamp="1582686365828">
+    <state width="1237" height="176" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1582695336308" />
+    <state width="1237" height="176" key="GridCell.Tab.0.center" timestamp="1582695336308">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1237" height="176" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1582686365828" />
-    <state width="1237" height="176" key="GridCell.Tab.0.left" timestamp="1582686365828">
+    <state width="1237" height="176" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1582695336308" />
+    <state width="1237" height="176" key="GridCell.Tab.0.left" timestamp="1582695336308">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1237" height="176" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1582686365828" />
-    <state width="1237" height="176" key="GridCell.Tab.0.right" timestamp="1582686365828">
+    <state width="1237" height="176" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1582695336308" />
+    <state width="1237" height="176" key="GridCell.Tab.0.right" timestamp="1582695336308">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1237" height="176" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1582686365828" />
+    <state width="1237" height="176" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1582695336308" />
     <state x="365" y="255" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1582607540442">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="365" y="255" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1280.720@0.0.1280.720" timestamp="1582607540442" />
+    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup" timestamp="1582695073352">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup/0.0.1280.720@0.0.1280.720" timestamp="1582695073352" />
   </component>
   <component name="masterDetails">
     <states>

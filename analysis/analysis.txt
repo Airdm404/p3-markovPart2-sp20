@@ -13,7 +13,7 @@ question and match it to the corresponding page in your pdf.
 
 ____________________________________________________________________________________
 
-YOUR NAME and YOUR NETID
+Edem Ahorlu (eka13)
 
 You're given a class Benchmark that runs several tests that allow you to
 compare the performance of the default, brute-force BaseMarkov and the
